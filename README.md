@@ -1,8 +1,10 @@
-# Iris Species Classification
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Iris Species Classification: a k-nearest neighbours model classifies three iris species from four measurements with 97 percent test accuracy.">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Test accuracy](https://img.shields.io/badge/test%20accuracy-97%25-2c9fbf?style=flat-square)
+<p align="center">
+  <a href="#result"><b>Result</b></a> &nbsp;·&nbsp; <a href="#run-it"><b>Run it</b></a>
+</p>
 
 Classifies iris flowers into three species (setosa, versicolor, virginica) from four measurements: sepal length, sepal width, petal length and petal width. The data is Ronald Fisher's classic Iris dataset, loaded from scikit-learn.
 

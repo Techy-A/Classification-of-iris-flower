@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d"><title id="t">Iris Species Classification</title><desc id="d">Classifies iris flowers into three species from four measurements. The scatter shows petal length against petal width, where the species almost separate on their own.</desc>
+<rect x="1" y="1" width="1198" height="358" rx="24" fill="#FBF9FE" stroke="#E8E0F3" stroke-width="2" />
+<text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="17" font-weight="600" fill="#7E22CE" text-anchor="start" letter-spacing="2" >CLASSIFICATION · FISHER'S IRIS DATA</text>
+<text x="64" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#1F1533" text-anchor="start" >Iris Species</text>
+<text x="64" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#1F1533" text-anchor="start" >Classification</text>
+<text x="64" y="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400" fill="#5B5173" text-anchor="start" >Three species from four measurements.</text>
+<text x="64" y="291" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400" fill="#5B5173" text-anchor="start" >Petal size almost separates them alone.</text>
+<text x="64" y="314" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="18" font-weight="400" fill="#5B5173" text-anchor="start" >scikit-learn · k-NN · 150 flowers</text>
+<rect x="690" y="40" width="450" height="280" rx="18" fill="#FFFFFF" stroke="#E8E0F3" stroke-width="2" />
+<line x1="722" y1="282" x2="1118" y2="282" stroke="#D9CFE9" stroke-width="2"/><line x1="722" y1="282" x2="722" y2="64" stroke="#D9CFE9" stroke-width="2"/>
+<circle cx="753.4" cy="233.0" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="748.1" cy="242.5" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="746.0" cy="259.4" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="793.5" cy="260.8" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="775.0" cy="251.6" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="765.1" cy="250.3" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="751.6" cy="237.8" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="746.2" cy="259.9" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="742.6" cy="258.7" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="762.8" cy="235.2" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="761.3" cy="264.4" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="755.0" cy="231.9" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="744.8" cy="245.6" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="761.2" cy="244.1" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="759.2" cy="243.0" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="767.5" cy="244.5" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="788.5" cy="247.1" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="749.0" cy="266.2" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="790.8" cy="250.5" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="751.6" cy="233.6" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="771.7" cy="241.6" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="787.4" cy="258.0" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="760.1" cy="236.1" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="748.6" cy="240.3" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="746.6" cy="243.0" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="778.1" cy="233.4" r="5.5" fill="#2563EB" opacity="0.85"/>
+<circle cx="959.6" cy="172.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="881.2" cy="193.0" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="921.4" cy="171.7" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="865.9" cy="148.4" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="918.8" cy="160.4" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="883.9" cy="187.5" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="858.6" cy="181.6" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="889.6" cy="176.8" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="902.9" cy="152.5" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="965.4" cy="191.5" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="905.3" cy="192.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="937.7" cy="144.2" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="881.7" cy="156.5" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="893.6" cy="201.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="950.0" cy="181.7" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="877.8" cy="176.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="885.3" cy="177.6" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="911.3" cy="177.2" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="928.6" cy="184.8" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="868.7" cy="196.9" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="870.1" cy="171.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="900.9" cy="154.1" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="918.5" cy="160.0" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="976.2" cy="198.2" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="859.2" cy="193.6" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="904.1" cy="167.9" r="5.5" fill="#D97706" opacity="0.85"/>
+<circle cx="1047.1" cy="143.7" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1077.8" cy="172.1" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1059.9" cy="155.2" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1065.3" cy="169.6" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1077.8" cy="110.4" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1081.3" cy="125.0" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="968.6" cy="93.3" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1005.2" cy="165.5" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1027.9" cy="131.8" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1009.6" cy="159.7" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="960.8" cy="125.0" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1006.7" cy="162.0" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1004.9" cy="113.2" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1043.2" cy="133.9" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="998.5" cy="142.9" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="975.2" cy="156.2" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1005.8" cy="163.5" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1044.5" cy="114.6" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1028.8" cy="170.5" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="994.4" cy="137.1" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="956.9" cy="93.4" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1048.8" cy="131.3" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1041.7" cy="155.9" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="975.7" cy="129.5" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="1047.1" cy="119.6" r="5.5" fill="#BE185D" opacity="0.85"/>
+<circle cx="944.8" cy="122.3" r="5.5" fill="#BE185D" opacity="0.85"/>
+<text x="736" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#2563EB" text-anchor="start" >setosa</text>
+<text x="874" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#B45309" text-anchor="start" >versicolor</text>
+<text x="1118" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#BE185D" text-anchor="end" >virginica</text>
+<text x="1118" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="18" font-weight="400" fill="#5B5173" text-anchor="end" >petal length</text>
+<text x="734" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="18" font-weight="400" fill="#5B5173" text-anchor="start" >petal width</text>
+<rect x="956" y="214" width="164" height="52" rx="12" fill="#FFFFFF" stroke="#E8E0F3" stroke-width="2" />
+<text x="970" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#1F1533" text-anchor="start" >97% accuracy</text>
+<text x="970" y="258" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400" fill="#5B5173" text-anchor="start" >k-NN, test set</text>
+</svg>
